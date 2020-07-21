@@ -1,0 +1,16 @@
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\appsettings.json
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.deps.json
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.runtimeconfig.json
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.runtimeconfig.dev.json
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.dll
+D:\vs\repos\Algorithm\bin\Debug\netcoreapp2.2\Algorithm.pdb
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.csprojAssemblyReference.cache
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.RazorAssemblyInfo.cache
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.RazorAssemblyInfo.cs
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.AssemblyInfoInputs.cache
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.AssemblyInfo.cs
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.RazorTargetAssemblyInfo.cache
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.dll
+D:\vs\repos\Algorithm\obj\Debug\netcoreapp2.2\Algorithm.pdb
